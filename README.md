@@ -4,11 +4,11 @@
 
 <h2>👨‍💻 School Projects:</h2>
 
-- <b> Dog Register — Java CLI Application </b>
+- <b> Dog Register — Java CLI Application (Basic Java) </b>
   - [Dog Register](https://github.com/Antezh/DogRegister-Java)
 - <b> PathFinder – Interactive Map Graph Builder (JavaFX) </b>
   - [Path Finder](https://github.com/Antezh/PathFinder)
-- <b> Simple Artist Portfolio Website </b>
+- <b> Simple Artist Portfolio Website (HTML/CSS) </b>
   - [Artist Website](https://github.com/Antezh/ArtistWebbsite)
 
 <h2> 🤳 Connect with me:</h2>
