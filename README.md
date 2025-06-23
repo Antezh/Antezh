@@ -6,7 +6,8 @@
 
 - <b> Dog Register — Java CLI Application </b>
   - [https://github.com/Antezh/DogRegister-Java]
-- <b> 
+- <b> PathFinder – Interactive Map Graph Builder (JavaFX) </b>
+  - [https://github.com/Antezh/PathFinder]
 
 <!--
 **Antezh/Antezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
