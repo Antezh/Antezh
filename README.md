@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Andreas! 👋
+
+<b> Recently graduated with a Bachelor's degree in Computer and Systems Sciences, specializing in Digital Media <br/>
+
+<h2>👨‍💻 School Projects:</h2>
+
+- <b> Dog Register — Java CLI Application </b>
+  - [https://github.com/Antezh/DogRegister-Java]
+- <b> 
 
 <!--
 **Antezh/Antezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
