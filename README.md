@@ -1,6 +1,6 @@
 ## Hi there, I'm Andreas! 👋
 
-<b> Recently graduated with a Bachelor's degree in Computer and Systems Sciences, specializing in Digital Media <br/>
+<b> Recently graduated with a Bachelor's degree in Computer and Systems Sciences <br/>
 
 <h2>👨‍💻 School Projects:</h2>
 
