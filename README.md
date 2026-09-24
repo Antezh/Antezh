@@ -1,6 +1,6 @@
-## Hi there, Welcome to my GitHub!
+## Hi there, I'm Andreas, Welcome!
 
-<b> My name is Andreas and this is where I share my projects, both from my time in school but also some personal projects. <br/>
+<b> This is where I share my projects, both from my time in school but also some personal projects. <br/>
 
 <h2> Personal Projects: </h2>
 
