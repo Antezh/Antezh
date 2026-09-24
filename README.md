@@ -1,8 +1,13 @@
-## Hi there, I'm Andreas! 👋
+## Hi there, Welcome to my GitHub!
 
-<b> Recently graduated with a Bachelor's degree in Computer and Systems Sciences <br/>
+<b> My name is Andreas and this is where I share me projects, both from my time in school but also some personal projects! <br/>
 
-<h2>👨‍💻 School Projects:</h2>
+<h2> Personal Projects: </h2>
+
+- <b> Active Directory Homelab (on going) </b>
+  - [AD-Homelab](https://github.com/Antezh/homelab-active-directory)
+
+<h2> School Projects: </h2>
 
 - <b> Dog Register — Java CLI Application (Basic Java) </b>
   - [Dog Register](https://github.com/Antezh/DogRegister-Java)
@@ -15,7 +20,6 @@
 
 [<img align="left" alt="AndreasHagenstam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/andreas-hagenstam/
 
 <!--
 **Antezh/Antezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
