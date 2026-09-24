@@ -4,17 +4,21 @@
 
 <h2> Personal Projects: </h2>
 
-- <b> Active Directory Homelab (ongoing) </b>
+* <b> Active Directory Homelab (ongoing): </b> </br>
+ <i>Simulating a small business network with Active Directory, Group Policy, DNS and DHCP in VMware.</i>
   - [AD-Homelab](https://github.com/Antezh/homelab-active-directory)
 
 <h2> School Projects: </h2>
 
-- <b> Dog Register — Java CLI Application (Basic Java) </b>
-  - [Dog Register](https://github.com/Antezh/DogRegister-Java)
-- <b> PathFinder – Interactive Map Graph Builder (JavaFX) </b>
-  - [Path Finder](https://github.com/Antezh/PathFinder)
-- <b> Simple Artist Portfolio Website (HTML/CSS) </b>
-  - [Artist Website](https://github.com/Antezh/ArtistWebbsite)
+- <b> Dog Register — Java CLI Application (Basic Java): </b> </br>
+<i>A simple command line app for registering dogs, built as a Java fundamentals exercise. </i>
+    - [Dog Register](https://github.com/Antezh/DogRegister-Java)
+- <b> PathFinder – Interactive Map Graph Builder (JavaFX) </b> </br>
+<i>An interactive map tool that builds and visualizes graphs, built with JavaFX.</i>
+    - [Path Finder](https://github.com/Antezh/PathFinder)
+- <b> Simple Artist Portfolio Website (HTML/CSS) </b> </br>
+<i>A basic artist portfolio site, built to practice HTML and CSS layout.</i>
+    - [Artist Website](https://github.com/Antezh/ArtistWebbsite)
 
 
 
