@@ -4,7 +4,7 @@
 
 <h2> Personal Projects: </h2>
 
-- <b> Active Directory Homelab (on going) </b>
+- <b> Active Directory Homelab (ongoing) </b>
   - [AD-Homelab](https://github.com/Antezh/homelab-active-directory)
 
 <h2> School Projects: </h2>
