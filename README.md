@@ -1,6 +1,6 @@
 ## Hi there, Welcome to my GitHub!
 
-<b> My name is Andreas and this is where I share me projects, both from my time in school but also some personal projects! <br/>
+<b> My name is Andreas and this is where I share my projects, both from my time in school but also some personal projects. <br/>
 
 <h2> Personal Projects: </h2>
 
@@ -16,9 +16,7 @@
 - <b> Simple Artist Portfolio Website (HTML/CSS) </b>
   - [Artist Website](https://github.com/Antezh/ArtistWebbsite)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AndreasHagenstam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <!--
